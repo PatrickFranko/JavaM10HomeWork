@@ -31,4 +31,5 @@ public class FileTxtToJson {
         gson.toJson(users, fw);
         fw.close();
     }
+    
 }
